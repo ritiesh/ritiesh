@@ -3,9 +3,10 @@
 
 About me🤩:
 
+- 👨‍💻 Pursuing BTech Information Technology at BANNARI AMMAN INSTITUTE OF TECHNOLOGY
 - 🔭 I’m currently working on projects regarding object detection using deeplearning
-- 🌱 I’m currently learning Java
-- 👯 I’m looking to collaborate on LinkedIn
+- 🌱 I’m currently learning JAVA
+- 👯 I’m looking to collaborate on projects related to C programming
 - 📫 How to reach me: LinkedIn-https://www.linkedin.com/in/ritiesh-varatharajan-459036209/
 
 Connect with me:
