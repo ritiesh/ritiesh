@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritiesh" alt="ritiesh" /></a> </p>
 
-- 🔭 I’m currently working on **C,C++**
+- 🔭 I’m currently pursuing  **BTech Information Technology in Bannari Amman Institute of Technology**
 
 - 🌱 I’m currently learning **Java and Database Management System**
 
