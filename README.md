@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **projects related to C and C++**
 
-- 🤝 I’m looking for help with **Rust Programming**
+- 🤝 I’m looking for help with **Problem Solving**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ritiesh?tab=repositories](https://github.com/ritiesh?tab=repositories)
 
