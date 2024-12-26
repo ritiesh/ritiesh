@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritiesh" alt="ritiesh" /></a> </p>
 
-- 🔭 I’m currently pursuing  **BTech Information Technology in Bannari Amman Institute of Technology**
+- 🔭 Completed my **BTech Information Technology in Bannari Amman Institute of Technology**
 
-- 🌱 I’m currently learning **Java and Database Management System**
+- 🌱 I’m currently learning **Frontend development**
 
-- 👯 I’m looking to collaborate on **projects related to C and C++**
+- 👯 I’m looking to collaborate on **projects related to ReactJS**
 
 - 🤝 I’m looking for help with **Problem Solving**
 
