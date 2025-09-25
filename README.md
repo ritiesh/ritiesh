@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Frontend development**
 
-- 👯 I’m looking to collaborate on **projects related to ReactJS**
+- 👯 I’m looking to collaborate on **projects related to ReactJS and Spring Boot**
 
 - 🤝 I’m looking for help with **Problem Solving**
 
